@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "userID",
+      "name": "userName",
+      "startingMoney": 10000,
+      "totalBet": 5000,
+      "timesBet": 0,
+      "totalWins": 0,
+      "didBet": true,
+      "money": 5000,
+      "colorBet": null,
+      "valueBet": null,
+      "colorBet2": null,
+      "valueBet2": null
+    }
+  ]
+}

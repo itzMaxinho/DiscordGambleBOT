@@ -1,0 +1,19 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "^0.0.1-security",
+    "node": "^8.9.4",
+    "node-fetch": "^3.2.3",
+    "node.js": "^0.0.1-security",
+    "parse-ms": "^2.1.0"
+  }
+}
